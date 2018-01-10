@@ -1,0 +1,8 @@
+{
+  "name": "wtsappclone",
+  "app_id": "46c9f814",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
